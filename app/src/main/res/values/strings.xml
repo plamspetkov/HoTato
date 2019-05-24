@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HoTato</string>
+    <string name="search_recipe">Search Recipe</string>
+    <string name="view_all">All Recipes</string>
+    <string name="search">Search Recipe</string>
+    <string name="recipes">Recipes</string>
+
+    <string name="recipe_ingredients_title">Igredients: </string>
+    <string name="recipe_description_title">Description: </string>
+</resources>

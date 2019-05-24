@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978921785979",
+    "firebase_url": "https://hotato-71a7f.firebaseio.com",
+    "project_id": "hotato-71a7f",
+    "storage_bucket": "hotato-71a7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978921785979:android:c6a191df477003dc",
+        "android_client_info": {
+          "package_name": "com.example.hotato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978921785979-7al02cqk920t32tgg9l9u73gp1so6urn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotato",
+            "certificate_hash": "5cb9a75440430f0cc7cbd771c15cf0c168eb0bab"
+          }
+        },
+        {
+          "client_id": "978921785979-qi1mhhv7cbbuhvkhiv7kq7oh9egs4pfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsHzjzhX-k5tEWEtAKTyAz-ja3phV95_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978921785979-qi1mhhv7cbbuhvkhiv7kq7oh9egs4pfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
